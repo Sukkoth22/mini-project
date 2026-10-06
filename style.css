@@ -83,7 +83,7 @@ header {
 }
 
 .row__course {
-  border-left: 1px dashed #cbd51c;
+  border-left: 1px dashed #cbd5e1;
 }
 
 .course {
@@ -141,7 +141,7 @@ header {
 
 .subheader {
   font-size: 20px;
-  margin: 16px 24px 0;
+  margin: 16px 0 24px;
   font-weight: 400;
   color: #647489;
 }
